@@ -1,6 +1,6 @@
 <script>
 	let images = [
-		"fish1.jpg",
+		"bad-weather.jpg",
 		"fish2.jpg",
 		"fish3.jpg"
 		// Add more image URLs here
