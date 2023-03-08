@@ -2,7 +2,7 @@
 	let images = [
 		"bad-weather.jpeg",
 		"fishing-not-working.jpeg",
-		"fish3.jpg"
+		"fishing-pictures-and-quotes-1.jpg"
 		// Add more image URLs here
 	];
 
